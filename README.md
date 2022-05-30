@@ -1,5 +1,7 @@
 
-# machine learning algorithms implementation & comparing with the sklearn
+# machine learning algorithms 
+
+## Implementation & comparing with the sklearn
 
 ### Kmeans(pyrhon)
 ### Hierarchy clustering (python)
